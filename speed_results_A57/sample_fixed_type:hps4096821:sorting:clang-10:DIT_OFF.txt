@@ -1,0 +1,2 @@
+randombytes + sample_fixed_type: 28949
+sample_fixed_type only: 24887

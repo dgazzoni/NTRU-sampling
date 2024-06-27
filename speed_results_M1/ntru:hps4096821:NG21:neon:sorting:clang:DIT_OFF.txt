@@ -1,0 +1,6 @@
+crypto_kem_keypair: 497797
+crypto_kem_enc: 27985
+crypto_kem_dec: 56766
+owcpa_keypair: 496255
+owcpa_enc: 14973
+owcpa_dec: 46637
